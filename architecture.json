@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-surrealist-individual-collective",
+  "title": "The Prism of Fifth Avenue",
+  "tagline": "A sculptor must build a cathedral for the collective soul of the Gilded Age, where individual dreams become a haunting, permanent spectacle.",
+  "target_words": 70000,
+  "actual_words": 73694,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of Collective Consciousness",
+    "The Surrealism of Industrial Ambition",
+    "The Individual as a Tool of the Machine",
+    "The Haunting of Progress"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Argent Aeternum",
+      "words": 3062
+    },
+    {
+      "ch": 2,
+      "title": "The Canvas of Fifth Avenue",
+      "words": 3062
+    },
+    {
+      "ch": 3,
+      "title": "Echoes in the Plaster",
+      "words": 3062
+    },
+    {
+      "ch": 4,
+      "title": "The Consortium's Blueprint",
+      "words": 3062
+    },
+    {
+      "ch": 5,
+      "title": "The First Impression",
+      "words": 3062
+    },
+    {
+      "ch": 6,
+      "title": "Whispers from the Loom",
+      "words": 3062
+    },
+    {
+      "ch": 7,
+      "title": "The Sculptor's Doubt",
+      "words": 3062
+    },
+    {
+      "ch": 8,
+      "title": "A Gathering of Atmospheres",
+      "words": 3062
+    },
+    {
+      "ch": 9,
+      "title": "The Ballroom's False Perspective",
+      "words": 3062
+    },
+    {
+      "ch": 10,
+      "title": "The Foundry of Faces",
+      "words": 3062
+    },
+    {
+      "ch": 11,
+      "title": "The Weight of a Collective Sigh",
+      "words": 3062
+    },
+    {
+      "ch": 12,
+      "title": "The Ozone Hum",
+      "words": 3062
+    },
+    {
+      "ch": 13,
+      "title": "The Miner's Lament Revisited",
+      "words": 3062
+    },
+    {
+      "ch": 14,
+      "title": "The Prism Takes Form",
+      "words": 3062
+    },
+    {
+      "ch": 15,
+      "title": "The First Refraction",
+      "words": 3062
+    },
+    {
+      "ch": 16,
+      "title": "Miss Vickers's Ledger",
+      "words": 3062
+    },
+    {
+      "ch": 17,
+      "title": "The Gala of Echoes",
+      "words": 3062
+    },
+    {
+      "ch": 18,
+      "title": "The Individual Dissolves",
+      "words": 3062
+    },
+    {
+      "ch": 19,
+      "title": "The Structure Awakens",
+      "words": 3062
+    },
+    {
+      "ch": 20,
+      "title": "The Architect's Prison",
+      "words": 3062
+    },
+    {
+      "ch": 21,
+      "title": "A Crack in the Lacquer",
+      "words": 3062
+    },
+    {
+      "ch": 22,
+      "title": "The Collective Demands a Face",
+      "words": 3062
+    },
+    {
+      "ch": 23,
+      "title": "The Dedication",
+      "words": 3062
+    },
+    {
+      "ch": 24,
+      "title": "The Permanent Spectrum",
+      "words": 3062
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a minor character—a porter, a factory worker, a socialite—feels their individual identity being subtly pulled into the Prism's collective impression.",
+      "Describe a new 'echo' or byproduct of the Consortium's technology: a surreal photograph or event that Silas discovers.",
+      "Create a journal entry from Miss Vickers detailing her true, personal opinion on the 'spirit of the age' she is helping to entrap.",
+      "Write a chapter set 50 years after the novel's end, describing how the Prism on Fifth Avenue has evolved or decayed, and what collective memory it now holds."
+    ],
+    "technical": [
+      "Design a visual 'mood board' or architectural schematic for Silas's Prism interior, using surrealist art and Gilded Age design as references.",
+      "Develop a system for 'mapping' the collective emotions/ambitions of a historical period onto a physical, navigable 3D space, defining its rules and distortions."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Franz Kafka",
+      "Ayn Rand",
+      "H.P. Lovecraft",
+      "Edith Wharton"
+    ]
+  },
+  "cover_prompt": "A solitary sculptor, dwarfed and awestruck, places the final, luminous piece into a vast, impossible cathedral of glass and forged iron, its architecture warping and growing organically like a crystalline forest, set within a surreal, fog-shrouded Fifth Avenue where spectral figures of high society and industry workers move like ghosts through the grand nave. The scene is a haunting convergence of individual toil and monumental, consuming ambition, with intricate details of gilded filigree crawling up steel beams and faces of dreamers pressed against the interior glass, their expressions frozen in permanent wonder or despair, all rendered in the atmospheric, dreamlike style of Zdzisław Beksiński meets the precise industrial surrealism of Giorgio de Chirico. The composition is a dramatic, centered book cover frame with a low-angle shot looking up at the sculptor and the cathedral's dizzying heights, emphasizing scale and awe. The lighting is dramatic chiaroscuro, with beams of ethereal, cold light piercing the industrial gloom from stained-glass windows depicting gears and dollar signs, casting long shadows and highlighting a palette of burnished gold, tarnished silver, deep Prussian blue, and the sickly green of oxidized copper. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
