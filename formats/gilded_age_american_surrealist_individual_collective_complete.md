@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The train did not so much arrive as it was excavated. It came up out of the prairie night not with a whistle, but with a grinding, mineral groan, as if the earth were giving birth to a long, segmented spine of polished brass and smoked glass. Silas watched it from the platform, the cinders of his cigarillo a dying constellation in the dark. The stationmaster, a man whose face was a relief map of disappointment, had long since retreated inside his little brick hut, leaving Silas alone with the wind and the approaching leviathan.
+Cornelius Van Alen’s gold tooth sang. A high, clear C-sharp that vibrated through the champagne in his glass and drew every eye in the mirrored ballroom. It was an inconvenient talent, surfacing only when the collective adoration in the room reached a precise, feverish pitch. He smiled wider, conducting the silent aria with his jaw. The guests, enraptured, began to sway in perfect, unwitting unison.
+
+
 
 It was the 11:47 from Chicago, the *Argent Aeternum*, and it carried not just passengers, but their atmospheres. You could smell it before you saw it: a pressurized bouquet of coal smoke, bergamot, starched linen, and beneath it all, the faint, tinny scent of human ambition. Silas adjusted the cuffs of his shirt, not because they needed it, but because the motion gave his hands something to do other than remember the weight of a different tool. The telegram in his breast pocket crackled like a dormant insect. *Silas. Stop. The Consortium requires your particular vision. Stop. Meet the Aeternum. Stop. Terms to be discussed. Stop. Do not be late. Stop.* It was unsigned. It didn’t need to be.
 
