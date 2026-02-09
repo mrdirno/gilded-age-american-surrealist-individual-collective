@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The train did not so much arrive as it was excavated. It came up out of the prairie night not with a whistle, but with a grinding, mineral groan, as if the earth were giving birth to a long, segmented spine of polished brass and smoked glass. Silas watched it from the platform, the cinders of his cigarillo a dying constellation in the dark. The stationmaster, a man whose face was a relief map of disappointment, had long since retreated inside his little brick hut, leaving Silas alone with the wind and the approaching leviathan.
@@ -71,6 +73,8 @@ A low chime sounded. Dinner. A steward entered silently with a covered tray. Roa
 He set down his fork. Miss Vickers’s words echoed. *Pay attention to your dreams.*
 
 The train raced on through the heart of the country, a gilded needle stitching the dark fabric of the night, carrying him toward an unseen, unimaginable loom. And Silas Thorne, sculptor of the solid, began to feel the first, faint tremors of the wave he was meant to shape, a wave made not of water, but of the dreams and drudgery of a million souls, all rushing together, seeking a shore.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -147,6 +151,8 @@ Silas’s pride curdled. “Accompany? To what end?”
 “To observe. To feel the raw material. To understand what you are building your cathedral to house.” Her gaze was cool, analytical. “It is one thing to design a filter for noise, Mr. Thorne. It is another to stand in the storm. Be ready Monday at dawn.”
 
 She left him then, standing before his altar-like drafting table in the immense, silent hall that was no longer empty, but pregnant with the ghost of his own design. The Crystal, his beautiful, cold condenser, no longer seemed just an abstract solution. It had a purpose now, a specific, gathering hunger. He thought of five thousand hungry, angry men in Hoboken, their fear and fury just so much raw ore to be mined, refined, and poured into the waiting vessel of his creation. The silence of the hall deepened, and in it, he thought he could hear the first, faint echoes of the coming scream.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
